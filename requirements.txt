@@ -3,3 +3,4 @@ djangorestframework
 pandas
 openpyxl
 djangorestframework.authtoken
+rest_framework_simplejwt
